@@ -14,8 +14,6 @@
 
 - Python 3.8+
 - [Playwright](https://playwright.dev/python/)
-- (опционально) PyInstaller — если хочешь собрать `.exe`
-
 ## Установка
 
 ```bash
