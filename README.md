@@ -98,4 +98,4 @@ Google: «Не удалось войти в аккаунт» / «этот бра
 
 MIT — делай с кодом что хочешь, но без каких-либо гарантий.
 
-Powered by Fembi. TTFD.
+Powered by Fembi. TTFD. 
